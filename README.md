@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on `NOTHING`
 - 📫 How to reach me `OPDhaker2007@gmail.com`
 
-<!---
-OPDhaker/OPDhaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/OPDhaker?cardType=github&Background=1A1A1A&Text=00FF00&Title=00FF00&Ring=00FF00&Border=00FF00)](https://git.io/awesome-stats-card)
